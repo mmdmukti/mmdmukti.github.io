@@ -1,3 +1,9 @@
+---
+layout: home
+title: Muhamad Mukti
+description: Network and System Administrator
+---
+
 ## Skills
 
 - System Administration / Server Management and Monitoring
