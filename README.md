@@ -1,8 +1,4 @@
----
-layout: home
-title: Muhamad Mukti
-description: Network and System Administrator
----
+# Welcome to My Pages
 
 ## Skills
 
