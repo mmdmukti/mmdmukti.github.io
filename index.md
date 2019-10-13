@@ -15,7 +15,10 @@ description: Network and System Administrator
 
 ## Highlighted Projects
 
-- [TUXTOR](https://tuxtor.com) - Linux Tutorials
+- [MANFIKAR](//manfikar.com) - Jasa Pembuatan dan Perbaikan Website
+- [MANFIKAR BLOG](//blog.manfikar.com) - Tips Seputar Bisnis Online
+- [KAWEEN ID](//kaween.id/) - Undangan Pernikahan Digital
+- [TUXTOR](//tuxtor.com) - Linux Tutorials
 
 ## Email
 
