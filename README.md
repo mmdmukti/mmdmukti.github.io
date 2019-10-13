@@ -20,8 +20,9 @@
 
 ## Social Media
 
-- [Twitter](https://twitter.com/mmdmukti)
-- [Facebook](https://www.facebook.com/i.m.mukti)
-- [Linkedin](https://id.linkedin.com/in/muhamadmukti)
+- [MANFIKAR](//manfikar.com) - Jasa Pembuatan dan Perbaikan Website
+- [MANFIKAR BLOG](https://blog.manfikar.com) - Tips Seputar Bisnis Online
+- [KAWEEN ID](//kaween.id/) - Undangan Pernikahan Digital
+- [TUXTOR](//tuxtor.com) - Linux Tutorials
 
 Simplicity is making the journey of this life very easy.
