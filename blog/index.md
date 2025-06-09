@@ -1,8 +1,8 @@
 ---
 layout: blog
-title: Blog Post
+title: Linux for Beginner
 description: Linux for Beginner
 ---
 
-## Blog Post
+## Blogposts
 
