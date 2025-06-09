@@ -18,4 +18,4 @@ description: Cloud & DevOps Engineer
 
 ## Social Media
 
-- [Linkedin](https://id.linkedin.com/in/muhamadmukti)
+- Linkedin: [https://id.linkedin.com/in/muhamadmukti](https://id.linkedin.com/in/muhamadmukti)
