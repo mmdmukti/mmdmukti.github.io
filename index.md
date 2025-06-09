@@ -1,24 +1,16 @@
 ---
 layout: home
 title: Muhamad Mukti
-description: Network and System Administrator
+description: Cloud & DevOps Engineer
 ---
 
 ## Skills
 
-- System Administration / Server Management and Monitoring
-- Network Infrastructure security and monitoring
-- Performance Tuning of Linux Servers
-- Manage Networks and Routers, IP Addresses and Routing Tables
-- Troubleshooting System and Server issues
-- Documentation of Configuration and Maintenance process
-
-## Highlighted Projects
-
-- [MANFIKAR](//manfikar.com) - Jasa Pembuatan dan Perbaikan Website
-- [MANFIKAR BLOG](https://blog.manfikar.com) - Tips Seputar Bisnis Online
-- [KAWEEN ID](//kaween.id/) - Undangan Pernikahan Digital
-- [TUXTOR](//tuxtor.com) - Linux Tutorials
+- Strong foundation in Linux systems, scripting (Bash, Python) and cloud security.
+- Proven ability to optimize system reliability, scalability, and cost-efficiency through automation, monitoring, and proactive incident response.
+- Passionate about building resilient systems and enabling high-velocity development teams through DevOps best practices.
+- Skilled in Infrastructure as Code (Terraform, CloudFormation), container orchestration (Docker, Kubernetes), and CI/CD pipeline implementation (Jenkins, Azure DevOps).
+- Designing, deploying, and automating cloud-native infrastructure in AWS/Azure/GCP environments.
 
 ## Email
 
@@ -26,8 +18,4 @@ description: Network and System Administrator
 
 ## Social Media
 
-- [Twitter](https://twitter.com/mmdmukti)
-- [Facebook](https://www.facebook.com/i.m.mukti)
 - [Linkedin](https://id.linkedin.com/in/muhamadmukti)
-
-Simplicity is making the journey of this life very easy.
